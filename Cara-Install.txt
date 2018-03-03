@@ -1,0 +1,21 @@
+(Bot Spam Messenger Fb)
+-----------------------
+
+
+BUKA TERMUX KETIK
+
+
+pkg install update
+
+pkg install upgrade
+
+pkg install python2
+
+cd Spamchat
+
+pip install -r requirements.txt
+
+python2 messenger.py
+
+
+#DONE
