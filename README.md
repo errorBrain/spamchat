@@ -15,7 +15,7 @@ https://github.com/Senitopeng/Spamchat.git
 
 cd Spamchat
 
-pip2 install fbchat
+pip2 install -r requirements.txt
 
 python2 messenger.py
 
