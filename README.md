@@ -9,9 +9,11 @@ pkg install update
 
 pkg install upgrade
 
+pkg install git
+
 pkg install python2
 
-https://github.com/Senitopeng/Spamchat.git
+git clone https://github.com/Senitopeng/Spamchat.git
 
 cd Spamchat
 
