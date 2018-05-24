@@ -1,3 +1,0 @@
-fbbot
-fbchat
-tqdm
