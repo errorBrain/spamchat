@@ -1,4 +1,3 @@
 fbbot
 fbchat
 tqdm
-mechanize
