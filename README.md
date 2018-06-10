@@ -13,7 +13,7 @@ pkg install git
 
 pkg install python2
 
-pip2 install mechanize
+pip2 install --upgrade pip
 
 git clone https://github.com/Senitopeng/Spamchat.git
 
