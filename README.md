@@ -15,7 +15,7 @@ pkg install python2
 
 pip2 install --upgrade pip
 
-git clone https://github.com/Senitopeng/Spamchat.git
+git clone https://github.com/errorBrain/spamchat.git
 
 cd Spamchat
 
@@ -25,3 +25,4 @@ python2 messenger.py
 ```
 
 # DONE
+Author : Senitopeng
